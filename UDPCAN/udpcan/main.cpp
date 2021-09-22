@@ -8,4 +8,4 @@ int main(int argc, char *argv[])
     MainWindow w;
     w.show();
     return a.exec();
-}//添加一行注释
+}
